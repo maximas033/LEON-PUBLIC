@@ -1,0 +1,11 @@
+
+This is a simplified version of the full LEON AI, and it's intended for you to build upon and personalize. You'll be able to take this code and customize it to better suit your needs.
+
+Firstly, it's crucial to modify the Firebase configuration so it connects to your personal Firebase instance. If you're unsure how to configure Firebase, I recommend checking out this tutorial: "https://youtu.be/jRH2Y16DUcw".
+
+Throughout the code, you'll find several API keys, which you're encouraged to replace with your own. This helps to personalize and secure your AI model.
+
+One such key is for weather information access, currently set to use the OpenWeatherMap service. To replace this, you can generate a new API key by visiting https://openweathermap.org/. Replacing this key will enable the AI to fetch and utilize weather data based on your own settings.
+
+Feel free to explore and modify other parts of the code to better adapt it to your use-case. Happy coding!
+
